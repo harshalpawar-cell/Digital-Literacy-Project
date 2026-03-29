@@ -1,6 +1,17 @@
-✍️ Case Study: UPI / Online Payment Fraud
-UPI fraud is a type of cybercrime where fraudsters trick people into sending money or sharing important banking details through online payment apps. With the increase in digital payments in India, these fraud cases are also increasing because many people are using UPI apps daily .
-Usually, this fraud starts when a person receives a call, message, or link from an unknown number. The scammer pretends to be from a bank, customer care, or sometimes even acts like someone the victim knows. They create urgency by saying there is a problem with the account or a payment is pending. Then they ask the person to share OTP, UPI PIN, or click on a link. Once the victim does this, the fraudster gets access and transfers money from the account.
-These types of frauds mostly target common users like students, elderly people, or anyone who is not fully aware of online security. Many times people trust the caller without verifying properly.
-The consequences can be serious. The victim may lose money, feel stressed, and lose trust in online payment systems. In many cases, recovery of money is difficult if action is not taken quickly.
-This case shows that people should never share OTP or PIN and should always be careful while dealing with unknown calls or messages online.
+# Case Study: UPI / Online Payment Fraud
+
+
+UPI fraud is a type of cybercrime where fraudsters trick people into sending money or sharing important 
+banking details through online payment apps. With the increase in digital payments in India, these fraud 
+cases are also increasing because many people are using UPI apps daily .
+Usually, this fraud starts when a person receives a call, message, or link from an unknown number. The 
+scammer pretends to be from a bank, customer care, or sometimes even acts like someone the victim knows. 
+They create urgency by saying there is a problem with the account or a payment is pending. Then they ask 
+the person to share OTP, UPI PIN, or click on a link. Once the victim does this, the fraudster gets access 
+and transfers money from the account.
+These types of frauds mostly target common users like students, elderly people, or anyone who is not fully 
+aware of online security. Many times people trust the caller without verifying properly.
+The consequences can be serious. The victim may lose money, feel stressed, and lose trust in online payment 
+systems. In many cases, recovery of money is difficult if action is not taken quickly.
+This case shows that people should never share OTP or PIN and should always be careful while dealing with 
+unknown calls or messages online.
